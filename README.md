@@ -53,6 +53,8 @@ Your EXE will be in `dist/`. Attach this file to a **GitHub Release** instead of
 - Packages: `pandas`, `pytz`, `Pillow` (see `requirements.txt`)
 
 ## Notes
+Note: This is a PyInstaller build. A few antivirus engines may show generic false positives. Verify the SHA-256 above. If your AV blocks the one-file EXE, use the onedir ZIP build.
+
 - `tkinter` is part of the standard Python installer on Windows. If you get a Tk import error, re-run the installer and choose **Modify** → enable **tcl/tk and IDLE**.
 - Do **not** commit build artifacts (`dist/`, `build/`, `*.spec`, `.exe`). Use **.gitignore** and **Releases**.
 - Consider renaming your main file to `stamppy.py` and the folder to `stamppy/` (no spaces) for clarity.
