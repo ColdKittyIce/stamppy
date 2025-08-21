@@ -18,7 +18,7 @@ filter calls that were answered within that time window.
   - Audacity label track (tab-delimited `.txt`)
 - Simple Windows GUI
 
-![Stamppy UI](docs/screenshot.png "Main window")
+![Stamppy UI](docs/Stamppy_Screenshot.png "Main window")
 
 ## Download (Windows EXE)
 Grab the latest `.exe` from **Releases** on GitHub. No Python required.
