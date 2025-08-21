@@ -1,5 +1,9 @@
 **Download (Windows EXE):** See the latest on the [Releases](../../releases) page.
 
+[![License](https://img.shields.io/badge/License-CC%20BY--NC%204.0-blue.svg)](LICENSE)
+
+[![Issues](https://img.shields.io/github/issues/ColdKittyIce/stamppy)](../../issues)
+
 [YouTube Tutorial/Instructions ](https://youtube.com/live/zD1CsRtClSk)
 
 # Stamppy — MicroSIP → Audition / Audacity Exporter
