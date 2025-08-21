@@ -67,13 +67,3 @@ What this means in plain English:
 - You cannot sell Stamppy itself, rebrand it, or package it into a commercial product.
 
 Full license: https://creativecommons.org/licenses/by-nc/4.0/
-
-## License (Original Text)
-
-Stamppy is released under the **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**.
-
-- You can use Stamppy for personal and professional work.
-- You can monetize the content you create with Stamppy (e.g., shows, podcasts, edited audio).
-- You cannot sell Stamppy itself or package it as part of a commercial product.
-
-Full license: https://creativecommons.org/licenses/by-nc/4.0/
