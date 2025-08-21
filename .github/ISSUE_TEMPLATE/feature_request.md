@@ -3,27 +3,18 @@ name: Feature request
 about: Suggest an idea for this project
 title: ''
 labels: ''
-assignees: ''
+assignees: ColdKittyIce
 
 ---
 
-name: Feature request
-description: Suggest an idea or improvement
-labels: [enhancement]
-body:
-  - type: textarea
-    id: problem
-    attributes:
-      label: Problem to solve
-      placeholder: "Editing takes longer because..."
-  - type: textarea
-    id: proposal
-    attributes:
-      label: Proposed solution
-      placeholder: "Add an option to..."
-    validations: { required: true }
-  - type: textarea
-    id: details
-    attributes:
-      label: Details / mockups
-      placeholder: "Buttons, labels, example CSV, etc."
+**Is your feature request related to a problem? Please describe.**
+A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+
+**Describe the solution you'd like**
+A clear and concise description of what you want to happen.
+
+**Describe alternatives you've considered**
+A clear and concise description of any alternative solutions or features you've considered.
+
+**Additional context**
+Add any other context or screenshots about the feature request here.
