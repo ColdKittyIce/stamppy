@@ -74,3 +74,10 @@ What this means in plain English:
 - You cannot sell Stamppy itself, rebrand it, or package it into a commercial product.
 
 Full license: https://creativecommons.org/licenses/by-nc/4.0/
+
+### Known issues / Troubleshooting
+- **Antivirus flagging**: This is a PyInstaller build. A few AV engines may show generic false positives.
+  - Verify the SHA-256 in the Release notes.
+  - If blocked, use the **Windows ZIP (onedir)** build.
+- **No window appears**: Sometimes the GUI opens behind other windows—check the taskbar.
+- **Tkinter import error** (source users): Re-run the Python installer → Modify → enable **tcl/tk and IDLE**.
