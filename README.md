@@ -1,3 +1,6 @@
+**Download (Windows EXE):** See the latest on the [Releases](../../releases) page.
+
+
 # Stamppy — MicroSIP → Audition / Audacity Exporter
 
 Stamppy converts MicroSIP call logs (CSV) into marker/label files so you can
