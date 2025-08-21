@@ -1,6 +1,6 @@
 **Download (Windows EXE):** See the latest on the [Releases](../../releases) page.
 
-[YouTube Tutorial/Instructions ](https://youtube.com/live/zD1CsRtClSk).
+[YouTube Tutorial/Instructions ](https://youtube.com/live/zD1CsRtClSk)
 
 # Stamppy — MicroSIP → Audition / Audacity Exporter
 
